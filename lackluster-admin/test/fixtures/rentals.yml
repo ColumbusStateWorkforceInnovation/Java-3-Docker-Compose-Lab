@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  rental_type: MyString
+  category: MyString
+  year: 1979
+  director: MyString
+  num_available: 1
+
+two:
+  name: MyString
+  rental_type: MyString
+  category: MyString
+  year: 2002
+  director: MyString
+  num_available: 1

@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  order: one
+  rental: one
+  due_datetime: 2023-09-24 15:32:04
+
+two:
+  order: two
+  rental: two
+  due_datetime: 2023-09-24 15:32:04

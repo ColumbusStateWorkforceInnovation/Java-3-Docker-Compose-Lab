@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  smart_id: one
+  first_name: MyString
+  last_name: MyString
+
+two:
+  smart_id: two
+  first_name: MyString
+  last_name: MyString

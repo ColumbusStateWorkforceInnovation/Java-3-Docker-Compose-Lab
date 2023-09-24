@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee: one
+  customer: one
+  store_number: MyString
+  order_datetime: 2023-09-24 15:32:31
+
+two:
+  employee: two
+  customer: two
+  store_number: MyString
+  order_datetime: 2023-09-24 15:32:31
